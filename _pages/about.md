@@ -18,8 +18,11 @@ My research interest lies in security and privacy-preserving aspects of Machine 
 
 SCHOLARSHIPS & AWARDS
 ======
+
 · **Second-class** scholarship of Northeastern University(2023)
+
 · **Second-class** prize of National College Student Information Security Contest(2023)
+
 · **Third-class** scholarship of Northeastern University(2021, 2022)
 
 
