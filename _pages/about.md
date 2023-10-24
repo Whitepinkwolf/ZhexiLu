@@ -12,5 +12,5 @@ I'm a senior undergraduate student from Northeastern University(China). My resea
 
 I am very fortunate to be advised by [Prof. Xiaorui Liu](https://sites.google.com/ncsu.edu/xiaorui)from [School of Computer Science](https://cs.ncsu.edu/), North Carolina State University.
 
-You can find my cv [here](../assets/CV.pdf)
+You can find my cv [here](CV.pdf)
 
