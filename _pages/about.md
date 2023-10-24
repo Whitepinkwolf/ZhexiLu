@@ -10,7 +10,7 @@ redirect_from:
 
 I'm **Zhexi Lu(陆哲曦)**, a senior undergraduate student from **Northeastern University (China)**. I am very fortunate to be advised by [Prof. Xiaorui Liu](https://sites.google.com/ncsu.edu/xiaorui) from [School of Computer Science](https://csc.ncsu.edu/), **North Carolina State University**.
 
-You can find my [CV](../files/CV.pdf) here.
+You can find my [CV](https://github.com/Whitepinkwolf/zhexilu.github.io/blob/master/files/CV.pdf) here.
 
 Research Interest
 ======
