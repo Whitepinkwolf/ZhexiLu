@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Zhexi Lu(陆哲曦)**, a senior undergraduate student from **Northeastern University (China)**. I am very fortunate to be advised by [Prof. Xiaorui Liu](https://sites.google.com/ncsu.edu/xiaorui) from [School of Computer Science](https://csc.ncsu.edu/), **North Carolina State University**.
+I'm **Zhexi Lu(陆哲曦)**, a senior undergraduate student from **Northeastern University (China)**. I am very fortunate to be advised by [Prof. Xiaorui Liu](https://sites.google.com/ncsu.edu/xiaorui) from [Department of Computer Science](https://csc.ncsu.edu/), **North Carolina State University**.
 
 You can find my [CV](../ZhexiLu/assets/CV.pdf) here.
 
